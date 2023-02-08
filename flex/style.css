@@ -1,0 +1,15 @@
+title{color: red;
+font-size: large;
+}
+h1{color: blue;
+    font-size: xx-large;
+
+}
+img{
+    height: 400px;
+    width: 400px;
+    align-content: center;
+}
+button{
+    align-items:baseline;
+}
